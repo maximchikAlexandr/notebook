@@ -1,5 +1,5 @@
-.git
-.idea
-__pycache__
-handlers\__pycache__
-handlers\utlites\__pycache__
+\.git
+\.idea
+\__pycache__
+\handlers\__pycache__
+\handlers\utlites\__pycache__
